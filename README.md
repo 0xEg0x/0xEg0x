@@ -1,17 +1,22 @@
-## Hi there 👋
-uo
+# Lucas Vinicius — 0xEg0x
 
-<!--
-**0xEg0x/0xEg0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Analyst | SOC | Pentest | Linux & Networks
 
-Here are some ideas to get you started:
+Transicionando para segurança ofensiva com base sólida em 
+redes avançadas, Linux, DevOps e automação.
+Atualmente: SOC Analyst | Co-founder @ Evolvify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack técnico
+- Security: Nmap, Burp Suite, Wireshark, Metasploit, SIEM
+- Infra: Linux avançado, Docker, Kubernetes, n8n
+- Dev: Python, Bash, Go, TypeScript
+- Automação: n8n, agentes de IA, CRM
+
+## Atualmente
+- Iniciando em SOC — foco em detecção e resposta
+- Preparação para eJPT → OSCP
+- Construindo: Evolvify (IA + automação para empresas)
+
+## Em construção
+- [ ] writeups/  → TryHackMe e HackTheBox
+- [ ] scripts/   → ferramentas ofensivas próprias
