@@ -20,3 +20,7 @@ Atualmente: SOC Analyst | Co-founder @ Evolvify
 ## Em construção
 - [ ] writeups/  → TryHackMe e HackTheBox
 - [ ] scripts/   → ferramentas ofensivas próprias
+
+## Projetos destacados
+- [Ginger — Network Diagnostics Tool](https://github.com/l1ckyndev/Project-DW)
+  Interface web para dig e traceroute com auth JWT, Node.js, Prisma e Docker
