@@ -24,3 +24,5 @@ Atualmente: SOC Analyst | Co-founder @ Evolvify
 ## Projetos destacados
 - [Ginger — Network Diagnostics Tool](https://github.com/l1ckyndev/Project-DW)
   Interface web para dig e traceroute com auth JWT, Node.js, Prisma e Docker
+## Palestras
+- n8n + WhatsApp Automation Workshop — IFPB (2025)
